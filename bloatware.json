@@ -1,0 +1,318 @@
+{
+"bloatware" [
+	"google": [
+		{
+		"package": "com.huawei.browser",
+		"desc": "Huawei browser I recomend Firefox",
+		},
+		{
+		"package": "com.huawei.browserhomepage",
+		"desc": "Huawei browser homepage remove if you removed the browser",
+		},
+		{
+		"package": "com.android.bookmarkprovider",
+		"desc": "Bookmarks for huawei browser",
+		},
+		{
+		"package": "com.android.providers.partnerbookmarks",
+		"desc": "Bookmarks for huawei browser",
+		},
+		{
+		"package": "com.baidu.input_huawei ",
+		"desc": "Stock input keyboard WARNING:PLEASE INSTALL A KEYBOARD BEFORE REMOVING THIS",
+		},
+		{
+		"package": "com.huawei.appmarket",
+		"desc": "Huawei Market app",
+		},
+		{
+		"package": "com.huawei.android.chr",
+		"desc": "HwChrService",
+		},
+		{
+		"package": "com.huawei.android.FloatTasks",
+		"desc": "Floating dock function",
+		},
+		{
+		"package": "com.huawei.android.FMRadio",
+		"desc": "Radio FM app",
+		},
+		{
+		"package": "com.huawei.android.hsf",
+		"desc": "Huawei Services Framework",
+		},
+		{
+		"package": "com.huawei.android.hwpay",
+		"desc": "Huawei Pay Just use google pay if you really need this",
+		},
+		{
+		"package": "com.huawei.android.hwouc",
+		"desc": "System update app",
+		},
+		{
+		"package": "com.huawei.android.karaoke",
+		"desc": "Karaoke mode feature",
+		},
+		{
+		"package": "com.huawei.android.instantshare",
+		"desc": "Huawei Share features",
+		},
+		{
+		"package": "com.huawei.android.launcher",
+		"desc": "Huawei launcher app I wouldnt remove this yet.",
+		},
+		{
+		"package": "com.huawei.android.mirrorshare",
+		"desc": "MirrorShare feature",
+		},
+		{
+		"package": "com.huawei.android.remotecontroller",
+		"desc": "Juawei Smart Controller app",
+		},
+		{
+		"package": "com.huawei.search",
+		"desc": "HiSearch",
+		},
+		{
+		"package": "com.huawei.synergy",
+		"desc": "Huawei Cloud Synergy",
+		},
+		{
+		"package": "com.huawei.stylus.floatmenu",
+		"desc": "Floating menu with M-Pen feature",
+		},
+		{
+		"package": "com.huawei.android.tips ",
+		"desc": "Huawei Tips",
+		},
+		{
+		"package": "com.huawei.android.totemweather",
+		"desc": "Huawei Weather app",
+		},
+		{
+		"package": "com.huawei.android.wfdirect",
+		"desc": "Wi-Fi Direct feature",
+		},
+		{
+		"package": "com.huawei.arengine.service",
+		"desc": "Augmented reality service",
+		},
+		{
+		"package": "com.huawei.contactscamcard",
+		"desc": "CamCard",
+		},
+		{
+		"package": "com.huawei.compass",
+		"desc": "Huawei Compass app",
+		},
+		{
+		"package": "com.huawei.desktop.explorer",
+		"desc": "No idea just not usefull",
+		},
+		{
+		"package": "com.huawei.fido.uafclient",
+		"desc": "No idea just not usefull",
+		},
+		{
+		"package": "com.huawei.gameassistan",
+		"desc": "HiGame",
+		},
+		{
+		"package": "com.huawei.geofence",
+		"desc": "Geofence Service",
+		},
+		{
+		"package": "com.huawei.hdiw",
+		"desc": "Huawei ID app",
+		},
+		{
+		"package": "com.huawei.hiai",
+		"desc": "Huawei Artificial Intelligence",
+		},
+		{
+		"package": "com.huawei.hidisk",
+		"desc": "Huawei File Manager app",
+		},
+		{
+		"package": "com.huawei.hifolder",
+		"desc": "Huawei Online Cloud folder service",
+		},
+		{
+		"package": "com.huawei.himovie.overseas",
+		"desc": "Huawei videos App",
+		},
+		{
+		"package": "com.huawei.hitouch",
+		"desc": "Floating dock by Huawei",
+		},
+		{
+		"package": "com.huawei.HwMultiScreenShot",
+		"desc": "Sliding screen feature",
+		},
+		{
+		"package": "com.huawei.hwasm",
+		"desc": "FIDO UAF Autenthicator-Specific Module",
+		},
+		{
+		"package": "com.huawei.hwdetectrepair ",
+		"desc": "Huawei Smart diagnosis app",
+		},
+		{
+		"package": "com.huawei.iaware",
+		"desc": "Not usefull",
+		},
+		{
+		"package": "com.huawei.ihealth",
+		"desc": "Something todo with health",
+		},
+		{
+		"package": "com.huawei.livewallpaper.paradise ",
+		"desc": "Live wallpaper service use an open source one",
+		},
+		{
+		"package": "com.huawei.parentcontrol",
+		"desc": "Parental controls functions",
+		},
+		{
+		"package": "com.huawei.pcassistant ",
+		"desc": "HiSuite service",
+		},
+		{
+		"package": "com.huawei.phoneservice",
+		"desc": "HiCare app",
+		},
+		{
+		"package": "com.huawei.powergenie",
+		"desc": "Huawei Power management app may impact your battary",
+		},
+		{
+		"package": "com.huawei.mirror",
+		"desc": "Huawei Mirror app",
+		},
+		{
+		"package": "com.huawei.screenrecorder",
+		"desc": "Huawei Screen recorder feature use open source one",
+		},
+		{
+		"package": "com.huawei.trustagent",
+		"desc": "something",
+		},
+		{
+		"package": "com.huawei.vassistant",
+		"desc": "HiVoice app",
+		},
+		{
+		"package": "com.huawei.videoeditor ",
+		"desc": "Video editor function",
+		},
+		{
+		"package": "com.huawei.wallet",
+		"desc": "Huawei Wallet",
+		},
+		{
+		"package": "com.huawei.watch.sync",
+		"desc": "Huawei Watch sync function",
+		},
+		{
+		"package": "com.iflytek.speechsuite",
+		"desc": "Default voice input method",
+		},
+		{
+		"package": "com.nuance.swype.emui",
+		"desc": "Huawei Swype functions",
+		},
+		
+		
+	],
+	"google": [
+		{
+		"package": "com.google.android.apps.maps",
+		"desc": "The google maps app, replace this with an open source equiverlant on Fdroid",
+		},
+		{
+		"package": "com.google.android.apps.fitness",
+		"desc": "The google fitness app, replace this with an open source equiverlant on Fdroid",
+		},		
+		{
+		"package": "com.google.android.street",
+		"desc": "The google streets app",
+		},
+		{
+		"package": "com.google.android.youtube",
+		"desc": "Youtube can be replaced with and open the source app Newpipe",
+		},
+		{
+		"package": "com.touchtype.swiftkey",
+		"desc": "WARNING:INSTALL A KEYBOARD BEFORE REMOVING THIS, THIS IS YOUR KEYBOARD",
+		},
+		{
+		"package": "com.swiftkey.swiftkeyconfigurator",
+		"desc": "WARNING:INSTALL A KEYBOARD BEFORE REMOVING THIS, THIS IS YOUR KEYBOARD",
+		},
+		{
+		"package": "com.google.android.gm",
+		"desc": "This is gmail",
+		},
+		{
+		"package": "com.google.android.gms",
+		"desc": "Part of gmail",
+		},
+		{
+		"package": "com.google.android.gms.location.history",
+		"desc": "This is gmail location services",
+		},
+		{
+		"package": "com.google.android.apps.docs",
+		"desc": "Google Docs find a open source .docx viewer",
+		},
+		{
+		"package": "com.android.chrome",
+		"desc": "Google chrome browser I recomend Firefox as its open source",
+		},
+		{
+		"package": "com.google.android.apps.tachyon",
+		"desc": "Google DUO never used it.",
+		},
+		{
+		"package": "com.google.android.apps.photos",
+		"desc": "Google Photos install an open source photos viewer",
+		},
+		{
+		"package": "com.google.android.tts",
+		"desc": "Googles Text to speech",
+		},
+		{
+		"package": "com.google.vr.vrcore",
+		"desc": "Googles Vr Core services",
+		},
+		{
+		"package": "com.google.android.inputmethod.latin",
+		"desc": "Gboard",
+		},
+		{
+		"package": "com.google.android.googlequicksearchbox",
+		"desc": "Google Quick Search",
+		},
+		{
+		"package": "com.google.android.music",
+		"desc": "Google Play music use something else",
+		},
+		{
+		"package": "com.google.android.apps.wellbeing",
+		"desc": "Digital wellbeing",
+		},
+		{
+		"package": "com.google.android.apps.books",
+		"desc": "Google Play Books",
+		},
+		{
+		"package": "com.google.android.syncadapters.calendar",
+		"desc": "Calendar Sync",
+		},
+		{
+		"package": "com.google.android.printservice.recommendation ",
+		"desc": "Mobile Printing",
+		},	
+	]
+]
+}
