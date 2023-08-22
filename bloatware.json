@@ -1,6 +1,6 @@
 {
 "bloatware" [
-	"google": [
+	"huawei": [
 		{
 		"package": "com.huawei.browser",
 		"desc": "Huawei browser I recomend Firefox",
