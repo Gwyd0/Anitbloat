@@ -12,13 +12,34 @@ or for the python script use
 ```
 python3 start.py
 ```
+## Requirements
+You need two requirements for these scripts:
+* [jq](https://jqlang.github.io/jq/download/) - for .json files
+* [adb](https://developer.android.com/tools/adb) - for removing apps
+  
+To install these requirements, run this command on your device:
+
+### Ubuntu
+```
+sudo apt-get install jq adb
+```
+### Arch
+```
+sudo pacman -S jq adb
+```
+### Windows
+I'm not sure how you install packages on Windows, as I don't use it any more, so I will link the two requirements webpages
+* [jq](https://jqlang.github.io/jq/download/)
+* [adb](https://developer.android.com/tools/adb)
+
+
 
 # Bloatware lists
 The bloatware lists are from pre-existing online lists. Not every app has a description, usually because I don't know what it is.
 
 Every app in these lists are either bloatware or just really peculiar (i.e. weird permissions).
 
-# Something stopped working?
+# An app stopped working?
 If disabling a package broke some part of your device, you can simply re-enable the app using this command:
 ```
 adb shell pm enable $(PACKAGE_NAME)
@@ -27,5 +48,6 @@ Note: You need [adb](https://www.xda-developers.com/install-adb-windows-macos-li
 
 # Future Features
 * More bloatware added to lists
-* option for enabling disabled apps
+* option for enabling disabled apps (already done on python)
 * installing open source equivalent to bloatware using fdroid (maybe possible)
+* add arguments for the command line
